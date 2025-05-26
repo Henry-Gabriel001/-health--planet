@@ -1,0 +1,28 @@
+.ww{
+font-size: 60px;
+text-align: center;
+text-shadow: 4px 5px 7px;                          
+}
+.ww:hover{
+color: darkslateblue;                          
+}
+.ad{
+font-size: 25px;
+color: blue;
+background-color: black;                          
+}
+.ad:hover{
+color:white;                          
+}
+video{
+width:400px ;
+float: right;
+height: 100px;
+}
+.gd{
+ font-size: 30px;
+ background-color: aqua;                         
+}
+a{
+font-size: 30px;
+}

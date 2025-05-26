@@ -1,0 +1,73 @@
+.vas {
+  color: black;
+  text-shadow: 3px 5px 7px;
+  border: 3px double black;
+  display: inline-block;
+  margin-left: 500px;
+  box-shadow: 5px 7px 5px;
+}
+.vas:hover {
+  color: goldenrod;
+}
+.va {
+  font-size: 30px;
+  background-color: black;
+  color: white;
+}
+.im {
+  color: white;
+  background-color: black;
+  display: inline-block;
+  box-shadow: 10px 8px 0px gray;
+  border: 2px solid white;
+  margin-left: 400px;
+}
+.vass {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+}
+img {
+  margin-right: 150px;
+}
+@media screen and (max-width: 768px) {
+  .vas {
+    color: black;
+    text-shadow: 3px 5px 7px;
+    border: 3px double black;
+    display: inline-block;
+    margin-left: 150px;
+    box-shadow: 5px 7px 5px;
+  }
+  .vas:hover {
+    color: goldenrod;
+  }
+  .va {
+    font-size: 25px;
+    background-color: black;
+    color: white;
+    width: 350px;
+  }
+  .im {
+    color: white;
+    background-color: black;
+    display: inline-block;
+    box-shadow: 10px 8px 0px gray;
+    border: 2px solid white;
+margin-left: 50px;
+  }
+  .vass {
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    width: 200px;
+  }
+  img {
+    margin-right: 150px;
+    border-radius: 60px;
+  }
+a{
+ font-size: 20px;
+ margin: 30px 80px;                         
+}
+}

@@ -1,0 +1,23 @@
+body{
+  background: url(./emergency.jpg);
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+ background-size:1400px 650px ;                         
+  }                       
+ .hh{
+ font-size: 60px;
+ color: burlywood;
+ text-align: center;
+ text-shadow: 4px 5px 7px white;                         
+ }
+ .ff{
+ color: aliceblue;
+ font-size: 30px;                         
+ } 
+ .ff:hover{
+ background-color: black;                         
+ }
+ a{
+ font-size: 30px;
+ color: aliceblue;                         
+ }

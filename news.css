@@ -1,0 +1,19 @@
+.ne{
+font-size: 60px;
+color: red;
+text-shadow:3px 5px 3px ;
+box-shadow:3px 6px 4px black ;
+border-radius: 20px;
+text-align: center;                          
+}
+.mm{
+font-size: 30px;
+color: red;
+background-color: black;                          
+}
+a{
+font-size: 30px;                          
+}
+video{
+width:400px ;                          
+}

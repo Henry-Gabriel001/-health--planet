@@ -1,0 +1,42 @@
+.po{
+color: darkslategrey;
+text-shadow:4px 5px 4px ;
+text-align: center;                         
+}
+.po:hover{
+  color: green;
+}
+.fo{
+font-size:25px ;
+color:lawngreen;
+background-color: black;                          
+}
+img{
+margin-left: 500px;                          
+}
+a{
+font-size: 30px;                          
+}
+@media screen and (max-width:768px){
+  .po{
+    color: darkslategrey;
+    text-shadow:4px 5px 4px ;
+    text-align: center;                       
+    }
+    .po:hover{
+      color: green;
+
+    }
+    .fo{
+    font-size:25px ;
+    color:lawngreen;
+    background-color: black;
+    width: 300px;                          
+    }
+    img{
+    margin-left: 50px; 
+    width: 300px;                         
+    }
+    a{
+    font-size: 30px;  
+}

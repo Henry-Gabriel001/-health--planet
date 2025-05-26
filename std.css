@@ -1,0 +1,24 @@
+body{
+ background: url(./emergency.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+ background-size:1400px 650px ; 
+ }
+ .ks{
+ font-size: 60px;
+ color: goldenrod;
+ text-align: center;
+ text-shadow: 4px 3px 4px white;                        
+ }                        
+ .ss{
+ color: aliceblue;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+ font-size:30px ;                         
+ }
+.ss:hover{
+background-color: black;                          
+}
+ a{
+ color: aliceblue;
+ font-size:30px ;                         
+ }

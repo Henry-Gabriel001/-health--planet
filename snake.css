@@ -1,0 +1,23 @@
+body{
+ background: url(./emergency.jpg);
+ background-repeat: no-repeat;
+  background-attachment: fixed;
+ background-size:1400px 650px ; 
+ }                        
+ .ss{
+ color: brown;
+ font-size: 60px;
+ text-align: center;
+ text-shadow:4px 5px 3px white ;                         
+ }
+ .sk{
+ color: cadetblue;
+ font-size: 40px;                         
+ }
+ .sk:hover{
+ background-color: black;                         
+ }
+ a{
+ font-size: 30px;
+ color: aliceblue;                         
+ }

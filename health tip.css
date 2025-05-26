@@ -1,0 +1,30 @@
+body{
+background: url(./health\ tip.jpg);
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size:800px 650px ;
+background-color: yellow;                          
+}
+.co{
+font-size: 40px;
+text-align: end;
+margin-left:850px;
+border:solid 2px black ;
+display: inline-block;
+}
+.nr{
+ font-size: 30px;
+ color: aliceblue;                         
+}
+.nr:hover{
+color:yellow;
+background: black;                          
+}
+video{
+ width:200px;
+ float:right;                           
+}
+a{
+font-size: 30px;
+color: chartreuse;                          
+}

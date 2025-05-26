@@ -1,0 +1,60 @@
+.fd{
+ font-size:40px ;
+ color: chartreuse;
+ text-shadow:3px 4px 3px ;
+ background-color: black;
+ display: inline-block;
+ margin-left:600px ;
+ box-shadow:5px 7px 4px dimgray ;                         
+}
+.fd:hover{
+color:yellow ;                          
+}
+.fdd{
+font-size:20px;                          
+}
+.ftt{
+text-align: center;
+color: black;
+text-shadow:4px 6px 7px ;
+color: brown;                          
+}
+img{
+float:right;
+margin-right: 150px;                          
+}
+.fmt{
+font-size:30px ;                          
+}
+.fmt:hover{
+                          color: darkorange;
+}
+.fnt{
+font-size: 30px;
+color: red;
+background:black ;
+display: inline-block;                          
+}
+a{
+ font-size:30px ;
+}.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

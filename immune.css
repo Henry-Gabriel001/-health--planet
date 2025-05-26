@@ -1,0 +1,33 @@
+.imm{
+color:red;
+text-shadow:3px 5px 5px black;
+text-align: center;                          
+}
+.imm:hover{
+background-color: black;
+color: aliceblue;                          
+}
+.im{
+color: aliceblue;
+background-color: black;
+display: inline-block;                          
+}
+.imt{
+background-color: red;
+text-shadow:3px 6px 9px ;
+display: inline-block;
+text-align: center;
+margin-left:300px ;
+font-size: 25px;                          
+}
+.imt:hover{
+color: aliceblue;                          
+}
+.immo{
+font-size: 20px;
+color: blueviolet;                          
+}
+img{
+margin-left:150px ;
+margin-right:150px ;                          
+}
