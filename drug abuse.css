@@ -1,0 +1,57 @@
+.du{
+font-size:40px ;
+color: deeppink;
+background-color: black;
+text-shadow:4px 6px 5px ;
+display: inline-block;
+margin-left:600px ;                          
+}
+.duu{
+font-size:30px ;
+color: cornsilk;
+background-color: deeppink;
+width:400px ;
+float: left;                          
+}
+.do{
+font-size:40px ;
+color:black ;
+text-shadow:3px 6px 4px ;
+float:right;                          
+}
+.dkk{
+font-size:30px;
+float: left;
+width:300px;
+margin-left:100px ;
+color: aliceblue; 
+}                          
+a{
+font-size: 30px;
+color: chartreuse;                          
+}
+body{
+ background-color: blueviolet;                         
+}
+body:hover{
+background-color: black;                          
+}
+a
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

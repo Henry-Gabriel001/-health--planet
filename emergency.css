@@ -1,0 +1,23 @@
+body{
+ background: url(./emergency.jpg);
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size:1400px 650px ;                         
+}
+.na{
+ font-size:60px ;
+ color: red;
+ text-align: center;
+ text-shadow:7px 4px 5px ;                         
+}
+.sll{
+color: aliceblue;
+font-size:25px ;
+text-align: center;                          
+}
+.sll:hover{
+color: chartreuse;                          
+}
+a{
+color: yellow;                          
+}

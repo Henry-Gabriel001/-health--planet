@@ -1,0 +1,27 @@
+body{
+background: url(./about.jpg);
+background-repeat: no-repeat;
+background-size:1400px 650px ;
+background-attachment: fixed;                          
+}
+.abt{
+font-size:40px ;
+text-align: center;
+color:blue;
+text-shadow:7px 5px 5px black;                          
+}
+.att{
+font-size:25px;
+font-style: italic;                          
+}
+a{
+font-size: 20px;
+background-color: black;
+color: yellow;
+box-shadow:darkolivegreen 8px 6px 2px;                          
+}
+a:hover{
+color: aliceblue;
+background-color: red;                          
+}                      
+a:

@@ -1,0 +1,45 @@
+.ex {
+  font-size: 40px;
+  color: yellow;
+  background-color: black;
+  display: inline-block;
+  box-shadow: 11px 11px 6px gray;
+  margin-right: 400px;
+}
+.et {
+  font-size: 30px;
+  background-color: yellow;
+  box-shadow: 16px 11px dimgrey;
+}
+a {
+  font-size: 30px;
+  color: chartreuse;
+  background-color: black;
+  box-shadow: 7px 9px dimgray;
+}
+@media screen and (max-width: 768px) {
+  .ex {
+    font-size: 30px;
+    color: yellow;
+    background-color: black;
+    box-shadow: 11px 11px 6px gray;
+    margin-left: 200px;
+  }
+  img{
+  width: 400px; 
+  border-radius: 30px;                       
+  }
+  .et {
+    font-size: 25px;
+    background-color: yellow;
+    box-shadow: 16px 11px dimgrey;
+    width: 300px;
+  }
+  a {
+    font-size: 20px;
+    color: chartreuse;
+    background-color: black;
+    box-shadow: 7px 9px dimgray;
+    margin: px 60px;
+  }
+}
